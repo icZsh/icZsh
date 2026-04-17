@@ -34,8 +34,5 @@
   <text x="161" y="210" fill="#F1FA8C" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24">"ship small, ship useful"</text>
 
   <text x="38" y="258" fill="#6272A4" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">$ ./build --iterate --learn</text>
-  <rect x="340" y="242" width="12" height="20" rx="2" fill="#F8F8F2">
-    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
-  </rect>
   <text x="38" y="286" fill="#BD93F9" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">✔ ready</text>
 </svg>
