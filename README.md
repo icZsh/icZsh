@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Isaac%20Zhu&fontAlign=50&fontAlignY=40&color=0:0f172a,100:2563eb&fontColor=ffffff&desc=Data%20%7C%20AI%20%7C%20Automation&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=icZsh&fontSize=72&fontColor=22d3ee&stroke=0f172a&animation=twinkling&color=0:020617,100:1e293b" />
 </p>
 
 <p align="center">
-  I build practical AI + data tools that are useful in daily workflows.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1100&color=22D3EE&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+Isaac+Zhu;%24+focus+%E2%86%92+AI+%2B+Data+%2B+Automation;%24+motto+%E2%86%92+ship+small%2C+ship+useful" />
 </p>
 
 <p align="center">
