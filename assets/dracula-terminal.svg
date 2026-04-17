@@ -19,21 +19,21 @@
 
   <text x="106" y="39" fill="#6272A4" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13">dracula • zsh • profile</text>
 
-  <text x="38" y="88" fill="#50FA7B" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24">➜</text>
-  <text x="66" y="88" fill="#8BE9FD" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24">whoami</text>
-  <text x="38" y="122" fill="#F8F8F2" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24">Isaac Zhu</text>
+  <text x="38" y="84" fill="#50FA7B" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="22">➜</text>
+  <text x="66" y="84" fill="#8BE9FD" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="22">whoami</text>
+  <text x="38" y="118" fill="#F8F8F2" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="22">Isaac Zhu</text>
 
-  <text x="38" y="166" fill="#50FA7B" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24">➜</text>
-  <text x="66" y="166" fill="#8BE9FD" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24">mode</text>
-  <text x="127" y="166" fill="#FF79C6" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24">=</text>
-  <text x="151" y="166" fill="#F1FA8C" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24">"terminal-first"</text>
+  <text x="38" y="152" fill="#50FA7B" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="22">➜</text>
+  <text x="66" y="152" fill="#8BE9FD" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="22">mode</text>
+  <text x="127" y="152" fill="#FF79C6" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="22">=</text>
+  <text x="151" y="152" fill="#F1FA8C" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="22">"terminal-first"</text>
 
-  <text x="38" y="198" fill="#50FA7B" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">➜</text>
-  <text x="66" y="198" fill="#8BE9FD" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">motto</text>
-  <text x="130" y="198" fill="#FF79C6" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">:</text>
-  <text x="146" y="198" fill="#F1FA8C" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">ship small, ship useful</text>
+  <text x="38" y="186" fill="#50FA7B" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="22">➜</text>
+  <text x="66" y="186" fill="#8BE9FD" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="22">motto</text>
+  <text x="130" y="186" fill="#FF79C6" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="22">:</text>
+  <text x="146" y="186" fill="#F1FA8C" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="22">ship small, ship useful</text>
 
-  <text x="38" y="228" fill="#BD93F9" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">$ make ship ENV=prod</text>
-  <text x="38" y="254" fill="#6272A4" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">$ ./ship --small --fast --reliable</text>
-  <text x="38" y="286" fill="#50FA7B" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">✔ deployed</text>
+  <text x="38" y="220" fill="#BD93F9" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="22">$ make ship ENV=prod</text>
+  <text x="38" y="254" fill="#6272A4" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="22">$ ./ship --small --fast --reliable</text>
+  <text x="38" y="288" fill="#50FA7B" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="22">✔ deployed</text>
 </svg>
