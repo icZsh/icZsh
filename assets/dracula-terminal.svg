@@ -28,7 +28,12 @@
   <text x="127" y="166" fill="#FF79C6" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24">=</text>
   <text x="151" y="166" fill="#F1FA8C" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24">"terminal-first"</text>
 
-  <text x="38" y="208" fill="#BD93F9" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">$ make ship ENV=prod</text>
-  <text x="38" y="236" fill="#6272A4" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">$ ./ship --small --fast --reliable</text>
+  <text x="38" y="198" fill="#50FA7B" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">➜</text>
+  <text x="66" y="198" fill="#8BE9FD" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">motto</text>
+  <text x="130" y="198" fill="#FF79C6" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">:</text>
+  <text x="146" y="198" fill="#F1FA8C" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">ship small, ship useful</text>
+
+  <text x="38" y="228" fill="#BD93F9" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">$ make ship ENV=prod</text>
+  <text x="38" y="254" fill="#6272A4" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">$ ./ship --small --fast --reliable</text>
   <text x="38" y="286" fill="#50FA7B" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">✔ deployed</text>
 </svg>
