@@ -24,15 +24,11 @@
   <text x="38" y="122" fill="#F8F8F2" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24">Isaac Zhu</text>
 
   <text x="38" y="166" fill="#50FA7B" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24">➜</text>
-  <text x="66" y="166" fill="#8BE9FD" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24">stack</text>
-  <text x="130" y="166" fill="#FF79C6" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24">=</text>
-  <text x="154" y="166" fill="#F1FA8C" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24">["AI", "Data", "Automation"]</text>
+  <text x="66" y="166" fill="#8BE9FD" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24">mode</text>
+  <text x="127" y="166" fill="#FF79C6" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24">=</text>
+  <text x="151" y="166" fill="#F1FA8C" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24">"terminal-first"</text>
 
-  <text x="38" y="210" fill="#50FA7B" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24">➜</text>
-  <text x="66" y="210" fill="#8BE9FD" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24">motto</text>
-  <text x="137" y="210" fill="#FF79C6" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24">=</text>
-  <text x="161" y="210" fill="#F1FA8C" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24">"ship small, ship useful"</text>
-
-  <text x="38" y="258" fill="#6272A4" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">$ ./build --iterate --learn</text>
-  <text x="38" y="286" fill="#BD93F9" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">✔ ready</text>
+  <text x="38" y="208" fill="#BD93F9" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">$ make ship ENV=prod</text>
+  <text x="38" y="236" fill="#6272A4" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">$ ./ship --small --fast --reliable</text>
+  <text x="38" y="286" fill="#50FA7B" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">✔ deployed</text>
 </svg>
