@@ -1,18 +1,5 @@
 <p align="center">
-<pre>
-██╗ ██████╗███████╗███████╗██╗  ██╗
-██║██╔════╝╚══███╔╝██╔════╝██║  ██║
-██║██║       ███╔╝ ███████╗███████║
-██║██║      ███╔╝  ╚════██║██╔══██║
-██║╚██████╗███████╗███████║██║  ██║
-╚═╝ ╚═════╝╚══════╝╚══════╝╚═╝  ╚═╝
-
-$ whoami
-Isaac Zhu
-
-$ focus
-AI + Data + Automation
-</pre>
+  <img src="https://raw.githubusercontent.com/icZsh/icZsh/main/assets/dracula-terminal.svg" alt="Isaac Zhu Dracula terminal banner" width="100%" />
 </p>
 
 <p align="center">
